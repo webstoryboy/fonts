@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MapoPeacefull';
+    font-weight: normal; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoPeacefull.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoPeacefull.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoPeacefull.ttf) format('truetype');
+    font-display: swap;
+}

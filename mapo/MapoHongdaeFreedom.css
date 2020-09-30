@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MapoHongdaeFreedom';
+    font-weight: normal; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoHongdaeFreedom.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoHongdaeFreedom.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoHongdaeFreedom.ttf) format('truetype');
+    font-display: swap;
+}

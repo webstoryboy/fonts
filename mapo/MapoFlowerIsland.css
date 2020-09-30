@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MapoFlowerIsland';
+    font-weight: normal; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoFlowerIsland.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoFlowerIsland.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoFlowerIsland.ttf) format('truetype');
+    font-display: swap;
+}

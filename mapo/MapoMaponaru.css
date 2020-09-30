@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MapoMaponaru';
+    font-weight: normal; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoMaponaru.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoMaponaru.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoMaponaru.ttf) format('truetype');
+    font-display: swap;
+}
