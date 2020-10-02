@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    font-weight: normal; 
+    font-style: normal; 
+    font-weight: 400;
+    src: url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/nanum/NanumMyeongjo.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/nanum/NanumMyeongjo.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/nanum/NanumMyeongjo.ttf) format('truetype');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    font-weight: normal; 
+    font-style: normal; 
+    font-weight: 600;
+    src: url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/nanum/NanumMyeongjoBold.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/nanum/NanumMyeongjoBold.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/nanum/NanumMyeongjoBold.ttf) format('truetype');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    font-weight: normal; 
+    font-style: normal; 
+    font-weight: 700;
+    src: url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/nanum/NanumMyeongjoExtraBold.woff2) format('woff2'),
+         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/nanum/NanumMyeongjoExtraBold.woff) format('woff'),
+         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/nanum/NanumMyeongjoExtraBold.ttf) format('truetype');
+    font-display: swap;
+}
+  
