@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'MapoBackpacking';
-    font-weight: normal; 
-    font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoBackpacking.woff2) format('woff2'),
-         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoBackpacking.woff) format('woff'),
-         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoBackpacking.ttf) format('truetype');
-    font-display: swap;
-}

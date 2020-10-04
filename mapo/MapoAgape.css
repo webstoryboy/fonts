@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'MapoAgape';
-    font-weight: normal; 
-    font-style: normal; 
-    src: url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoAgape.woff2) format('woff2'),
-         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoAgape.woff) format('woff'),
-         url(https://cdn.jsdelivr.net/gh/webstoryboy/fonts/mapo/MapoAgape.ttf) format('truetype');
-    font-display: swap;
-}
